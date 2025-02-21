@@ -152,3 +152,8 @@ Overall, this dashboard is effectively set up with multiple slicers, including c
 
 This page examines the week-over-week changes and the most common room types booked in hotels. It confirms that more expensive rooms like "Elite" generate higher revenue due to their price points. However, the calculation for WoW % changes per category requires further investigation, as the majority of the values are negative, which contradicts the revenue values. This dashboard will be revised at a later date to address the negative values. Potential causes could include missing data, placeholders, issues in the data collection process, or errors in DAX calculations.
 
+
+    Hotel bookings (Excel, Power BI, SQL)
+![Screen Shot 2025-02-20 at 8 16 38 PM]([https://github.com/UserDna95/Sales-Dashboard-Indian-Dataset/blob/main/2025-02-20%20(19).png](https://github.com/UserDna95/Hospitality-Dashboard/blob/main/2025-02-20%20(22).png))
+![Screen Shot 2025-02-20 at 8 16 38 PM](https://github.com/UserDna95/Hospitality-Dashboard/blob/main/2025-02-20%20(23).png)
+
