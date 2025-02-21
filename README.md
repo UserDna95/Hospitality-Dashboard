@@ -3,7 +3,7 @@
 Power BI dashboard analyzing room bookings in different hotels across different cities in India. 
 
 Problem Statement:
-What is leading the sales revenue for hotels?
+What is causing a drop in market share and revenue for AtliQ Grands across multiple hotels in India? 
 
 Step 1) 
 Run basic queries in SQL to understand the dataset 
@@ -150,7 +150,7 @@ Overall, this dashboard is effectively set up with multiple slicers, including c
 
 > Page 2: "Other"
 
-This page examines the week-over-week changes and the most common room types booked in hotels. It confirms that more expensive rooms like "Elite" generate higher revenue due to their price points. However, the calculation for WoW % changes per category requires further investigation, as the majority of the values are negative, which contradicts the revenue values. This dashboard will be revised at a later date to address the negative values. Potential causes could include missing data, placeholders, issues in the data collection process, or errors in DAX calculations.
+This page examines the week-over-week changes and the most common room types booked in hotels. It confirms that more expensive rooms like "Elite" generate higher revenue due to their price points. However, the calculation for WoW % changes per category requires further investigation, as the majority of the values are negative, which contradicts the revenue values. This dashboard will be revised at a later date to address the negative values as deeper analysis is required to answer the problem statement. Potential causes could include missing data, placeholders, issues in the data collection process, or errors in DAX calculations.
 
 
     Hotel bookings (Excel, Power BI, SQL)
