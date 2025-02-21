@@ -129,5 +129,6 @@ DIVIDE(revcw,revpw,0)-1
 
 Overall, this dashboard is effectively set up with multiple slicers, including city, booking platform, month, week number, and booking status. It provides stakeholders with insights into revenue, occupancy rate, and average rating. Additionally, it offers the potential for deeper analysis to identify which booking platforms contribute the most to revenue.
 
-> Page 2: "Other" This page examines the week-over-week changes and the most common room types booked in hotels. It confirms that more expensive rooms like "Elite" generate higher revenue due to their price points. However, the calculation for WoW % changes per category requires further investigation, as the majority of the values are negative, which contradicts the revenue values. This dashboard will be revised at a later date to address the negative values. Potential causes could include missing data, placeholders, issues in the data collection process, or errors in DAX calculations.
+> Page 2: "Other"
+This page examines the week-over-week changes and the most common room types booked in hotels. It confirms that more expensive rooms like "Elite" generate higher revenue due to their price points. However, the calculation for WoW % changes per category requires further investigation, as the majority of the values are negative, which contradicts the revenue values. This dashboard will be revised at a later date to address the negative values. Potential causes could include missing data, placeholders, issues in the data collection process, or errors in DAX calculations.
 
