@@ -154,6 +154,6 @@ This page examines the week-over-week changes and the most common room types boo
 
 
     Hotel bookings (Excel, Power BI, SQL)
-![Screen Shot 2025-02-20 at 8 16 38 PM]([https://github.com/UserDna95/Sales-Dashboard-Indian-Dataset/blob/main/2025-02-20%20(19).png](https://github.com/UserDna95/Hospitality-Dashboard/blob/main/2025-02-20%20(22).png))
+![Screen Shot 2025-02-20 at 8 16 38 PM](https://github.com/UserDna95/Hospitality-Dashboard/blob/main/2025-02-20%20(22).png)
 ![Screen Shot 2025-02-20 at 8 16 38 PM](https://github.com/UserDna95/Hospitality-Dashboard/blob/main/2025-02-20%20(23).png)
 
