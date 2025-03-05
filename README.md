@@ -7,11 +7,8 @@ Problem Statement: What is causing a drop in market share and revenue for AtliQ 
 Step 1) 
 Clean and handle null values in Excel 
 
-
 Step 2)
 Modeling in Power BI
-
-## Screenshots
 
 ![Screen Shot 2025-03-04 at 8 09 38 PM](https://github.com/UserDna95/Hospitality-Dashboard/blob/main/2025-03-04%20(6).png)
 
