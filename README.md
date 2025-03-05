@@ -94,6 +94,7 @@ IF(
 
 This dashboard provides a comprehensive overview of various hotels across different cities, focusing on key metrics such as Occupancy %, Rating, booking platform usage, and total revenue generated from each location. It serves as a valuable tool for deeper analysis, enabling the identification of the most lucrative booking platforms, revenue-generating room types, and the impact of day-of-week trends. Additionally, it highlights rating figures to create better value for customers based on historical trends.
 On the second page, the week-over-week changes are examined at a macro level. The most critical number to consider is the negative revenue value, indicating a lack of profitability, which supports the problem statement. Conversely, the daily utilized rooms (DURN) and daily booked rooms (DBRN) have shown positive increases, warranting further analysis to determine the factors behind these spikes despite the negative revenue. Other metrics, such as Occupancy % and RevPar %, remain unchanged, while Realization % has slightly increased, painting a dynamic picture of the potential causes for the drop in market share.
+
 The next steps involve focusing on the factors that led to the increase in DURN, DBRN, and Realization %. Subsequently, it is essential to cross-check the Occupancy % figures to ensure alignment. A thorough analysis of the causes behind the negative revenue, including potential high cancellation rates or low ratings across various cities and hotels, will be crucial in addressing the issue.
 
 
