@@ -13,7 +13,7 @@ Modeling in Power BI
 
 ## Screenshots
 
-![Screen Shot 2025-03-04 at 8 09 38 PM](https://github.com/UserDna95/Telecom-Dashboard/blob/main/2025-02-21.png)
+![Screen Shot 2025-03-04 at 8 09 38 PM](https://github.com/UserDna95/Hospitality-Dashboard/blob/main/2025-03-04%20(6).png)
 
 Step 3) 
 Dashboard in Power BI & Insights
